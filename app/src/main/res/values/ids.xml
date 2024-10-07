@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewProduct" type="id" />
+    <item name="textViewProductName" type="id" />
+    <item name="textViewProductPrice" type="id" />
+    <item name="textViewProductCategory" type="id" />
+    <item name="textViewBrand" type="id" />
+    <item name="textViewDescription" type="id" />
+    <item name="textViewInStock" type="id" />
+</resources>
